@@ -1,0 +1,6 @@
+F:\Programas Win Forms\PolarBear\PolarBear\bin\Debug\PolarBear.exe.config
+F:\Programas Win Forms\PolarBear\PolarBear\bin\Debug\PolarBear.exe
+F:\Programas Win Forms\PolarBear\PolarBear\bin\Debug\PolarBear.pdb
+F:\Programas Win Forms\PolarBear\PolarBear\obj\Debug\PolarBear.csprojResolveAssemblyReference.cache
+F:\Programas Win Forms\PolarBear\PolarBear\obj\Debug\PolarBear.exe
+F:\Programas Win Forms\PolarBear\PolarBear\obj\Debug\PolarBear.pdb
